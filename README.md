@@ -8,8 +8,8 @@
     1.2 Invariantes
 ### 2 Recursão
     2.1 Algoritmos recursivos
-    2.2 Um exemplo: o problema do máximo
-    2.3 Outra solução recursiva do problema
+    2.2 Fatorial e Fibonacci
+    2.3 Torre de Hanoi e Máximo Divisor Comum
 ### 3 Vetores
     3.1 Busca 
     3.2 Busca recursiva
