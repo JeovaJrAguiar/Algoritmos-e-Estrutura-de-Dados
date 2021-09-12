@@ -93,4 +93,4 @@
     14.5 Desempenho do algoritmo
 
 ### Observação
-Devido ser um conteúdo que demanda tempo, eu irei escrevendo o conteúdo, e fazendo os devidos commit's semanalmente, então se você entrou aqui o curso ainda não está completo, aguarde. Caso queira entrar em contato: (jeova.junior897@gmail.com) ou (jeova.junior@alu.ufc.br)
+Devido ser um conteúdo que demanda tempo, eu irei escrevendo o conteúdo, e fazendo os devidos commit's semanalmente, então se você entrou aqui o curso ainda não está completo, aguarde. Caso queira entrar em contato: jeova.junior897@gmail.com ou jeova.junior@alu.ufc.br
