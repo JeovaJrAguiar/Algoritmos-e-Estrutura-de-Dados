@@ -1,6 +1,6 @@
 # Curso de Algoritmos de Estrutura de Dados
 ## Prefácio
-    O curso lhe dá uma introdução a Algoritmos e Estrutura da Dados, é apropriado para amantes da computação que já tenham alguma experiência(que pessoalmente considero básico) de programação em linguagem C. Há quinze capítulos, uma introdução nos três primeiros capítulos e os demais com o assunto principal do curso.
+   O curso lhe dá uma introdução a Algoritmos e Estrutura da Dados, é apropriado para amantes da computação que já tenham alguma experiência(que pessoalmente considero básico) de programação em linguagem C. Há quinze capítulos, uma introdução nos três primeiros capítulos e os demais com o assunto principal do curso.
 
 ## Sumário
 ### 1 Documentação e invariantes
